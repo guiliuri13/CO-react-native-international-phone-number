@@ -32,4 +32,4 @@ export declare function PhoneInput(
 ): JSX.Element;
 
 export declare function getMatchingCountry(phoneNumber): ICountry | undefined;
-export declare function phoneMask(phoneNumber, callingCode, cca2): string;
+export declare function phoneMask(value: string, countryCode: string, cca2?: string): string;
