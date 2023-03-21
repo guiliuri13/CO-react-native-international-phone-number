@@ -1,7 +1,7 @@
 {
   "name": "co-react-native-international-phone-number",
-  "author": "Guilherme Iuri (https://github.com/guiliuri13)",
-  "version": "0.0.1",
+  "author": "Guilherme Iuri (https://github.com/guiliuri13) & AstrOOnauta (https://github.com/AstrOOnauta)",
+  "version": "0.0.2",
   "description": "International mobile phone input component with mask for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
